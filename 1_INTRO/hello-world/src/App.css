@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.Bio {
+  font-family: "Courier New", monospace;
+  border-radius: 15px;
+  margin: 100px;
+  color: rgb(89, 3, 201);
+  background: linear-gradient(
+    90deg,
+    rgb(210, 235, 250) 0%,
+    rgb(239, 222, 253) 100%
+  );  
+}
